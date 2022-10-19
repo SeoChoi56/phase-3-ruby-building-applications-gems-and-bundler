@@ -1,2 +1,4 @@
 --require spec_helper
 --format documentation
+
+require_relative "./spec/spec_helper"
